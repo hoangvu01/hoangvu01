@@ -10,4 +10,30 @@ I'm Hoang Vu. Thanks for visiting my profile 🥂
 
 <!-- REPO-SUMMARY:START -->
 
+### ![repo](https://icongr.am/octicons/repo.svg?size=20&color=b3b3b3) [hoangvu01/not_here](https://github.com/hoangvu01/not_here)
+> ![book](https://icongr.am/octicons/book.svg?size=14&color=b3b3b3) About
+>
+> Clean & simple mobile app to quickly view the crime rate anywhere in the UK
+
+
+![eye](https://icongr.am/octicons/eye.svg?size=16&color=b3b3b3) watchers 0 ![git-fork](https://icongr.am/octicons/git-fork.svg?size=16&color=b3b3b3) forks 0 ![star](https://icongr.am/octicons/star.svg?size=16&color=b3b3b3) stars 0 
+
+![Language Breakdown](images/hoangvu01/not_here/languages.svg)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#360BD6"/></svg> `Dart` - **93.55%** (62418 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#96028C"/></svg> `HTML` - **5.54%** (3695 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#B2B577"/></svg> `Swift` - **0.61%** (404 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#9F1AB1"/></svg> `Kotlin` - **0.19%** (125 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#A9CDC4"/></svg> `Others` - **0.12%** (82 bytes)
+### ![repo](https://icongr.am/octicons/repo.svg?size=20&color=b3b3b3) [hoangvu01/Tetris-Plus-Plus](https://github.com/hoangvu01/Tetris-Plus-Plus)
+> ![book](https://icongr.am/octicons/book.svg?size=14&color=b3b3b3) About
+>
+> A surprising twist to our classic game.
+
+
+![eye](https://icongr.am/octicons/eye.svg?size=16&color=b3b3b3) watchers 1 ![git-fork](https://icongr.am/octicons/git-fork.svg?size=16&color=b3b3b3) forks 1 ![star](https://icongr.am/octicons/star.svg?size=16&color=b3b3b3) stars 1 
+
+![Language Breakdown](images/hoangvu01/Tetris-Plus-Plus/languages.svg)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#1B0DC5"/></svg> `C` - **93.74%** (99073 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#DD3DF8"/></svg> `Makefile` - **4.89%** (5166 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#B72FDB"/></svg> `C++` - **1.38%** (1454 bytes)
 <!-- REPO-SUMMARY:END -->
