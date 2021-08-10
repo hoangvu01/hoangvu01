@@ -1,0 +1,20 @@
+name: Repo Summary Workflow
+on:
+  schedule: 
+    - cron: '0 0 * * *' # Runs 1 a day at midnight
+  workflow_dispatch: # Allows manually triggering the workflow
+jobs:
+  update-file:
+    name: Update REAMDE with new repositories data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: hoangvu01/repo-summary-workflow@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          repo_list: hoangvu01/not_here; hoangvu01/Tetris-Plus-Plus
+          commit_username: github-actions
+          commit_email: github-actions@github.com
+          commit_message: Update README with new repository data
+          language_bar_width: 300
+          language_bar_height: 10
