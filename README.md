@@ -36,4 +36,29 @@ I'm Hoang Vu. Thanks for visiting my profile 🥂
 1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#555555"/></svg> `C` - **93.74%** (99073 bytes)
 1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#427819"/></svg> `Makefile` - **4.89%** (5166 bytes)
 1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#f34b7d"/></svg> `C++` - **1.38%** (1454 bytes)
+### ![repo](https://icongr.am/octicons/repo.svg?size=20&color=b3b3b3) [zhao-xuan/Niched-Backend](https://github.com/zhao-xuan/Niched-Backend)
+> ![book](https://icongr.am/octicons/book.svg?size=14&color=b3b3b3) About
+>
+> null
+
+
+![eye](https://icongr.am/octicons/eye.svg?size=16&color=b3b3b3) watchers 0 ![git-fork](https://icongr.am/octicons/git-fork.svg?size=16&color=b3b3b3) forks 0 ![star](https://icongr.am/octicons/star.svg?size=16&color=b3b3b3) stars 0 
+
+![Language Breakdown](images/zhao-xuan/Niched-Backend/languages.svg)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#3572A5"/></svg> `Python` - **99.34%** (53273 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#384d54"/></svg> `Dockerfile` - **0.66%** (355 bytes)
+### ![repo](https://icongr.am/octicons/repo.svg?size=20&color=b3b3b3) [zhao-xuan/Niched-Frontend](https://github.com/zhao-xuan/Niched-Frontend)
+> ![book](https://icongr.am/octicons/book.svg?size=14&color=b3b3b3) About
+>
+> null
+
+
+![eye](https://icongr.am/octicons/eye.svg?size=16&color=b3b3b3) watchers 0 ![git-fork](https://icongr.am/octicons/git-fork.svg?size=16&color=b3b3b3) forks 0 ![star](https://icongr.am/octicons/star.svg?size=16&color=b3b3b3) stars 0 
+
+![Language Breakdown](images/zhao-xuan/Niched-Frontend/languages.svg)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#41b883"/></svg> `Vue` - **75.14%** (101475 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#2b7489"/></svg> `TypeScript` - **21.23%** (28664 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#563d7c"/></svg> `CSS` - **1.99%** (2689 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#e34c26"/></svg> `HTML` - **1.04%** (1400 bytes)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#ededed"/></svg> `Others` - **0.6%** (816 bytes)
 <!-- REPO-SUMMARY:END -->
