@@ -10,6 +10,16 @@ I'm Hoang Vu. Thanks for visiting my profile 🥂
 
 <!-- REPO-SUMMARY:START -->
 
+### ![repo](https://icongr.am/octicons/repo.svg?size=20&color=b3b3b3) [hoangvu01/csgo_prediction](https://github.com/hoangvu01/csgo_prediction)
+> ![book](https://icongr.am/octicons/book.svg?size=14&color=b3b3b3) About
+>
+> 🧫 Counter Strike: Global Offensive Round Outcome Prediction project during 2021 summer including web scraping, data cleaning, feature engineering and data analysis
+
+
+![eye](https://icongr.am/octicons/eye.svg?size=16&color=b3b3b3) watchers 1 ![git-fork](https://icongr.am/octicons/git-fork.svg?size=16&color=b3b3b3) forks 0 ![star](https://icongr.am/octicons/star.svg?size=16&color=b3b3b3) stars 1 
+
+![Language Breakdown](images/hoangvu01/csgo_prediction/languages.svg)
+1. <svg viewbox="0 0 16 16" width="12" height="12"><circle cx="8" cy="8" r="8" fill="#3572A5"/></svg> `Python` - **100%** (15612 bytes)
 ### ![repo](https://icongr.am/octicons/repo.svg?size=20&color=b3b3b3) [hoangvu01/not_here](https://github.com/hoangvu01/not_here)
 > ![book](https://icongr.am/octicons/book.svg?size=14&color=b3b3b3) About
 >
