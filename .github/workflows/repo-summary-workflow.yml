@@ -12,7 +12,7 @@ jobs:
       - uses: hoangvu01/repo-summary-workflow@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          repo_list: hoangvu01/not_here; hoangvu01/Tetris-Plus-Plus; zhao-xuan/Niched-Backend; zhao-xuan/Niched-FrontEnd
+          repo_list: hoangvu01/csgo_prediction; hoangvu01/not_here; hoangvu01/Tetris-Plus-Plus; zhao-xuan/Niched-Backend; zhao-xuan/Niched-FrontEnd
           commit_username: github-actions
           commit_email: github-actions@github.com
           commit_message: Update README with new repository data
